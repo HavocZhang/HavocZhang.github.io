@@ -10,8 +10,8 @@ catalog:      true
 multilingual: true
 tags:
     - pepper
-    - JavaScript
     - Python
+    - JavaScript
 ---
 
 <!-- Chinese Version -->
